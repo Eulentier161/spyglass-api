@@ -46,3 +46,4 @@ Thumbs.db
 
 .angular
 /server/src/middleware/api-access-tokens.ts
+/server/database/banano/rep-uptime/*.json
